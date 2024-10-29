@@ -3,7 +3,7 @@ from tkinter import scrolledtext
 from PIL import Image, ImageTk
 import qrcode as qrc
 
-# To build the ejecutable (Windows), run these 2 commands: (reuires to have pyinstaller to be installed)
+# To build the .exe file, run these 2 commands: (requires pyinstaller)
 #
 # cd "<path to this file>"
 # pyinstaller --onefile --noconsole qr_codegen.py
